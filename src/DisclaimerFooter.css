@@ -1,0 +1,9 @@
+.footer {
+  display: inline-flex;
+}
+
+.footer > img {
+  width: 25px;
+  height: 25px;
+  margin: 0.5em 0.5em 0 0.5em;
+}

@@ -1,0 +1,30 @@
+.card {
+  background-color: white;
+  box-shadow: 0px 2px 4px 4px #f4f4f4;
+  max-width: 300px;
+}
+
+.card__info {
+  display: flex;
+  font-family: "Source Sans Pro", sans-serif;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+
+.card__meta {
+  overflow: hidden;
+}
+
+.card__title {
+  flex: 1;
+  font-size: 1.4em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-right: 1em;
+}
+
+.card__date {
+  color: var(--grey);
+}

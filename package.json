@@ -1,0 +1,22 @@
+{
+  "name": "june-coding-event-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "shortid": "2.2.14"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/polyfill": "^7.0.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
