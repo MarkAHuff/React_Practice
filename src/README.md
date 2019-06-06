@@ -1,9 +1,5 @@
 # React Movies Queue
 
-## Demo
-
-You can see the finished demo here:
-
 ## Description
 
 This is a light weight React Project intended to help teach coding, styling and testing React Components.
